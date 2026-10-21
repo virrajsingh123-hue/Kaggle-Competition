@@ -1,0 +1,4 @@
+experiment,stage,epochs,best_validation_accuracy,lowest_validation_loss
+A_custom_cnn,full_training,8,0.9662894860914663,0.10385550002378806
+B_transfer_learning,head_only,2,0.7800565770862801,0.6236213323044436
+B_transfer_learning,fine_tune,10,0.9964639321074965,0.01232491389361865

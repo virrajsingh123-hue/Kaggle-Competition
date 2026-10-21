@@ -1,0 +1,3 @@
+experiment,model,pretrained,parameters,epochs_run,best_epoch,best_validation_loss,validation_accuracy_at_best,training_minutes
+A_custom_cnn,custom_cnn,False,"1,175,272",8,8,0.10385550002378806,0.9662894860914663,118.45600577990214
+B_transfer_learning,efficientnet_b0,True,"4,017,796",12,10,0.01232491389361865,0.9963853528209964,211.6480213244756

@@ -1,0 +1,9 @@
+class,train,validation,validation_percent
+CatEye,11110,2774,20.0
+CatFace,5554,1388,20.0
+CatMouth,5554,1388,20.0
+CatNose,5554,1388,20.0
+DogEye,9265,2315,20.0
+DogFace,4633,1157,20.0
+DogMouth,4632,1158,20.0
+DogNose,4632,1158,20.0

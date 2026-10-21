@@ -1,0 +1,3 @@
+experiment,model,pretrained,parameters,epochs_run,best_epoch,best_validation_loss,validation_accuracy_at_best,training_minutes,checkpoint
+A_custom_cnn,custom_cnn,False,1175272,8,8,0.10385550002378806,0.9662894860914663,118.45600577990214,c:\Kaggle-Competition\outputs\A_custom_cnn_best.pth
+B_transfer_learning,efficientnet_b0,True,4017796,12,10,0.01232491389361865,0.9963853528209964,211.6480213244756,c:\Kaggle-Competition\outputs\B_transfer_learning_best.pth
